@@ -1,0 +1,7 @@
+@media only screen and {
+    .carte{
+        display: flex;
+        justify-content: space-around;
+
+    }
+}
